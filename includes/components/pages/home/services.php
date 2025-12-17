@@ -1,0 +1,5 @@
+<section class=home_services><div class=container><div class=head_area><h2>All Under One Umbrella</h2><p>eBook Ghostwriting always had one mission, which is to provide ease to authors by giving them everything they need</div><div class="d-flex justify-content-center row"><?php
+                $services = file_get_contents('assets/json/home-sevices.json');
+                $data = json_decode($services, true);
+                foreach ($data as $key => $service) {
+                ?><div class="col-12 col-lg-3 col-md-6 col-sm-6 col-xl-3 col-xxl-3"><div class=crd id="services-<?php echo htmlspecialchars($key); ?>"><span><?php echo htmlspecialchars($service['id']); ?></span><h3><?php echo htmlspecialchars($service['title']); ?></h3><p><?php echo htmlspecialchars($service['description']); ?></p><a href="<?php echo htmlspecialchars($service['url']); ?>"><i class="fa-arrow-right-long fa-light"></i></a></div></div><?php } ?></div></div></section>

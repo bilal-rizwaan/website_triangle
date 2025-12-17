@@ -1,0 +1,62 @@
+    [
+        {
+            "id": "01",
+            "title": "Book Writing",
+            "description": "Make your book a reality with our professional ebook writers for hire. Fiction or nonfiction, we write engaging manuscripts that fit your voice and intent.",
+            "url":"book-writing"
+        },
+        {
+            "id": "02",
+            "title": "Ghostwriting",
+            "description": "Our bread-and-butter service — high-quality eBook ghostwriting services by experienced experts. Give us your ideas and we'll transform them into impactful, publish-ready material.",
+            "url":"ghostwriting-company"
+        },
+        {
+            "id": "03",
+            "title": "Book Editing",
+            "description": "Our keen-eyed editors refine your manuscript to perfection, clarifying, consistency, and style while maintaining your distinctive voice.",
+            "url":"book-editing"
+        },
+        {
+            "id": "04",
+            "title": "Book Proofreading",
+            "description": "We guarantee your book is 100% error-free before you publish. Grammar, punctuation, and spelling are thoroughly checked for a smooth finish.",
+            "url":"book-proofreading"
+        },
+        {
+            "id": "05",
+            "title": "Book Formatting",
+            "description": "We format your manuscript for Kindle, ePub, and print, with compatibility for leading platforms such as Amazon and Apple Books.",
+            "url":"book-formatting"
+        },
+        {
+            "id": "06",
+            "title": "Book Cover Design",
+            "description": "First impressions count. Our designers craft engaging, professional covers that pop and capture the spirit of your book.",
+            "url":"book-cover-design"
+        },
+        {
+            "id": "07",
+            "title": "Book Publishing",
+            "description": "From ISBNs to metadata, we take care of the technical aspects of publishing. We'll assist you in self-publishing effortlessly on leading platforms.",
+            "url":"book-publishing"
+        },
+        {
+            "id": "08",
+            "title": "Book Marketing",
+            "description": "Our marketing professionals promote your book with customised methods, Amazon ads, email campaigns, and so on, to increase visibility and sales.",
+            "url":"book-marketing"
+        },
+        {
+            "id": "09",
+            "title": "Audiobook Narration",
+            "description": "Reach more readers with professionally narrated audiobooks. Select from a variety of AI- or human-voiced artists to suit your book's tone.",
+            "url":"#"
+        },
+        {
+            "id": "10",
+            "title": "Book Video Trailer",
+            "description": "Grab attention with a movie-style book trailer. Ideal for social media, websites, and YouTube, it adds a dynamic touch to your marketing toolkit.",
+            "url":"#"
+        }
+    ]

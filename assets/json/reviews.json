@@ -1,0 +1,22 @@
+{
+    "reviews": [
+        {
+            "name": "Michael Kin",
+            "designation": "Thriller Enthusiast",
+            "description": "I was searching for a ghostwriting service that could handle the complexities of my favorite genre because I am a fan of genre fiction. My expectations were not only met but beyond by eBook Ghostwriting Services. Their book writers were aware of the subtleties, and the result was a compelling read that made me want to read more. Well done!"	,
+            "image": "assets/images/review-2.webp"
+        },
+        {
+            "name": "James M",
+            "designation": "Genre Fiction enthusiast",
+            "description": "I was searching for a ghostwriting service that could handle the complexities of my favorite genre because I am a fan of genre fiction. My expectations were not only met but beyond by eBook Ghostwriting Services. Their book writers were aware of the subtleties, and the result was a compelling read that made me want to read more. Well done!"	,
+            "image": "assets/images/review-3.jpg"
+        },
+        {
+            "name": "Emma R",
+            "designation": "Self-published author",
+            "description": "eBook Ghostwriting Service's book writers’ advice went much beyond writing; it really helped me decide what to publish and promote. What was the outcome? An book that was self-published and received good feedback. Thank you for your knowledge!",
+            "image": "assets/images/review-1.jpg"
+        }
+    ]
+}

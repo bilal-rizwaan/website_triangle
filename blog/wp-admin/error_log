@@ -1,0 +1,38 @@
+[16-Dec-2025 21:14:59 UTC] PHP Warning:  require_once(/home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/functions.class.php): Failed to open stream: No such file or directory in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php on line 16
+[16-Dec-2025 21:14:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/functions.class.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php:16
+Stack trace:
+#0 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/includes.php(33): require_once()
+#1 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/provider/provider_alt_loader.php(42): require_once('/home/ebookghos...')
+#2 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/unlimited_elements.php(87): require('/home/ebookghos...')
+#3 /home/ebookghostwritin/public_html/blog/wp-settings.php(560): include_once('/home/ebookghos...')
+#4 /home/ebookghostwritin/public_html/blog/wp-config.php(106): require_once('/home/ebookghos...')
+#5 /home/ebookghostwritin/public_html/blog/wp-load.php(50): require_once('/home/ebookghos...')
+#6 /home/ebookghostwritin/public_html/blog/wp-admin/admin.php(35): require_once('/home/ebookghos...')
+#7 /home/ebookghostwritin/public_html/blog/wp-admin/plugins.php(10): require_once('/home/ebookghos...')
+#8 {main}
+  thrown in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php on line 16
+[16-Dec-2025 21:15:00 UTC] PHP Warning:  require_once(/home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/functions.class.php): Failed to open stream: No such file or directory in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php on line 16
+[16-Dec-2025 21:15:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/functions.class.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php:16
+Stack trace:
+#0 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/includes.php(33): require_once()
+#1 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/provider/provider_alt_loader.php(42): require_once('/home/ebookghos...')
+#2 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/unlimited_elements.php(87): require('/home/ebookghos...')
+#3 /home/ebookghostwritin/public_html/blog/wp-settings.php(560): include_once('/home/ebookghos...')
+#4 /home/ebookghostwritin/public_html/blog/wp-config.php(106): require_once('/home/ebookghos...')
+#5 /home/ebookghostwritin/public_html/blog/wp-load.php(50): require_once('/home/ebookghos...')
+#6 /home/ebookghostwritin/public_html/blog/wp-admin/admin-ajax.php(22): require_once('/home/ebookghos...')
+#7 {main}
+  thrown in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php on line 16
+[16-Dec-2025 21:15:03 UTC] PHP Warning:  require_once(/home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/functions.class.php): Failed to open stream: No such file or directory in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php on line 16
+[16-Dec-2025 21:15:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/functions.class.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php:16
+Stack trace:
+#0 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/includes.php(33): require_once()
+#1 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/provider/provider_alt_loader.php(42): require_once('/home/ebookghos...')
+#2 /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/unlimited_elements.php(87): require('/home/ebookghos...')
+#3 /home/ebookghostwritin/public_html/blog/wp-settings.php(560): include_once('/home/ebookghos...')
+#4 /home/ebookghostwritin/public_html/blog/wp-config.php(106): require_once('/home/ebookghos...')
+#5 /home/ebookghostwritin/public_html/blog/wp-load.php(50): require_once('/home/ebookghos...')
+#6 /home/ebookghostwritin/public_html/blog/wp-admin/admin.php(35): require_once('/home/ebookghos...')
+#7 /home/ebookghostwritin/public_html/blog/wp-admin/themes.php(10): require_once('/home/ebookghos...')
+#8 {main}
+  thrown in /home/ebookghostwritin/public_html/blog/wp-content/plugins/unlimited-elements-for-elementor/inc_php/framework/include_framework.php on line 16
